@@ -1,0 +1,12 @@
+{
+  "name": "artis-vest",
+  "displayName": "artis-vest",
+  "expo": {
+    "name": "artis-vest",
+    "slug": "artis-vest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
